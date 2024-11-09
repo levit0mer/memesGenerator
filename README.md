@@ -30,7 +30,7 @@ The following screenshots show the application in action:
 Clone the repository to your local machine:
 
 ```sh
-git clone git@github.com:levit0mer/memeGenerator.git
+git clone git@github.com:levit0mer/memesGenerator.git
 ```
 
 Navigate to the project's directory and open index.html in your browser
