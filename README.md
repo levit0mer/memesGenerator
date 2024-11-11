@@ -17,13 +17,13 @@ Some of the key features of the application include creating memes by:
 - Filtering the gallery
 - An archive containing you saved memes
 - Moving text around and controlling its placement & looks
-<!-- 
+
 ## Screenshots
 
 The following screenshots show the application in action:
 
-![meme](screenshots/ss1.png)
-![meme](screenshots/ss2.png) -->
+![meme](screenshots/01.png)
+![meme](screenshots/02.png)
 
 ## Give It A GO
 
